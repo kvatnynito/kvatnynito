@@ -78,4 +78,4 @@ Log parsers, enrichment tools, Windows/Linux auditing, and automated detection s
 
 ## 🎯 Career Goal
 
-To become a Security Analyst / Blue Team Engineer contributing to real-world detection engineering, incident response, and cloud security operations.
+Gain the skills a Security Analyst / Blue Team Engineer use for real-world detection engineering, incident response, and cloud security operations.
