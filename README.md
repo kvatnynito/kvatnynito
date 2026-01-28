@@ -20,7 +20,7 @@ flowchart LR
 **1. SecOps & Detection Engineering (Microsoft Sentinel)**
 
 Detection rules, KQL analytics, incidents, and log analysis in a full SIEM mini-lab.
-🔗 https://github.com/kvntynito/1-secops-detentions-sentinel](https://github.com/kvntynito/1-secops-detections-sentinel
+🔗 https://github.com/kvntynito/1-secops-detentions-sentinel
 
 **2. Vulnerability Management (Nmap / OpenVAS)**
 
