@@ -14,8 +14,19 @@ This portfolio followed a progression:
 > **Sanitization note:** Public documentation uses representative hostnames/IP ranges and redacts WAN/public IPs, external domains/DDNS, credentials, tokens, and other sensitive identifiers.
 ---
 
+
 ## Portfolio 1 (P1) — Lab Infrastructure, Telemetry, and Investigation Case Files
 **Portfolio Hub:** https://github.com/kvntynito/Cybersecurity-Portfolio1
+
+```mermaid
+flowchart LR
+  A["P1-1: Lab Foundation<br/>Proxmox + pfSense Segmentation<br/>Inventory + Sanitization"] --> 
+  B["P1-2: Telemetry Pipeline<br/>WEF + Sysmon<br/>Validate in Splunk / Elastic / Wazuh"] --> 
+  C["P1-3: Case Files<br/>Timelines + IOCs + Pivots<br/>Detection artifacts"]
+
+  C --> D["Detections Artifacts<br/>Splunk = Searches - SPL<br/>Elastic = Queries - KQL<br/>Wazuh = Notes"]
+```
+
 
 ### Featured Repositories
 - **P1-1: Proxmox Segmentation Lab**  
