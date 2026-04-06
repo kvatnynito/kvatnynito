@@ -16,7 +16,7 @@ This portfolio followed a progression:
 
 
 ## Portfolio 1 (P1) — Lab Infrastructure, Telemetry, and Investigation Case Files
-**Portfolio Hub:** https://github.com/kvntynito/Cybersecurity-Portfolio1
+**Portfolio Hub:** https://github.com/kvatnynito/Cybersecurity-Portfolio1
 
 ```mermaid
 flowchart LR
@@ -31,15 +31,15 @@ flowchart LR
 ### Featured Repositories
 - **P1-1: Proxmox Segmentation Lab**  
   I documented a segmented lab blueprint (Proxmox + pfSense), including VM inventory and safe publishing guidelines.  
-  https://github.com/kvntynito/P1-1-proxmox-segmentation-lab
+  https://github.com/kvatnynito/P1-1-proxmox-segmentation-lab
 
 - **P1-2: WEF + Sysmon Telemetry Pipeline (Wazuh / Elastic / Splunk)**  
   I documented a centralized Windows telemetry pipeline (WEF + Sysmon) and built validation steps and reusable artifacts across Wazuh, Elastic, and Splunk.  
-  https://github.com/kvntynito/P1-2-wef-sysmon-to-wazuh-elastic-splunk
+  https://github.com/kvatnynito/P1-2-wef-sysmon-to-wazuh-elastic-splunk
 
 - **P1-3: Incident Investigation Case Files**  
   I created incident-style case documentation with supporting artifacts, including:
   - Splunk: searches (SPL)
   - Elastic: queries (KQL)
   - Wazuh: investigation notes / alert references  
-  https://github.com/kvntynito/P1-3-incident-investigation-casefiles
+  https://github.com/kvatnynito/P1-3-incident-investigation-casefiles
